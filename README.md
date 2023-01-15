@@ -12,4 +12,4 @@ Creating a blog application.
 - Routes behind authentication
 all the files available inside master branch.
 
-It is under implementation.
+all code files available under mater branch.
