@@ -8,6 +8,8 @@ Creating a blog application.
   - password verification.
 - blog creation.
 - user creation.
+- JWT authentication
+- Routes behind authentication
 all the files available inside master branch.
 
 It is under implementation.
