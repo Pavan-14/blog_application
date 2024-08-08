@@ -1,4 +1,4 @@
-# Web applicaion development using FastAPI
+# Developing RESTAPIs using FastAPI for Blog Application
 Creating a blog application.
 
 # Features:
